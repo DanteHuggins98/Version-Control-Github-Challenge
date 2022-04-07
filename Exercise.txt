@@ -1,0 +1,6 @@
+1. Terminal is a way to navigate the macOS or Linux without using a Graphical User Interface or GUI. Terminal uses UNIX which is an operating system created nearly 50 years ago. A few common commands for using the terminal include cd( change directory), PWD( print working directory), ls( list everything in the folder), and touch (create a file.) 
+ 
+
+2. Git is a local VCS software. Git is basically a memory card for code. You can Git to save progress on files using various commands. Git is maintained on your local system. Github is a cloud-based Git repository service. Github allows you to share your code with others, giving them access to revise and edit your code. Github makes it possible for teams to collab on a project without overwriting each other's progress. 
+
+3. We use Github to do group projects without changing another person's code. Github allows you a group to all work on different branches of the code in real-time. 
